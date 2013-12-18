@@ -1,2 +1,13 @@
-Syphon Framework/
-Library/
+Library
+Temp
+
+*.csproj
+*.unityproj
+*.sln
+*.pidb
+*.userprefs
+
+xcuserdata
+*.pbxuser
+
+.DS_Store
